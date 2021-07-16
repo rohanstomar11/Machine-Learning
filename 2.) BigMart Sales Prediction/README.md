@@ -37,5 +37,5 @@ Item_Outlet_Sales | Sales of the product in the particulat store. This is the ou
 
 ## Evaluation
 
-**Model Score:** 0.72
+**Model Score:** 0.72  
 **Mean Squared Error:** 0.28
