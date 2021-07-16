@@ -26,4 +26,4 @@ Salary | Salary
 
 ## Evaluation
 
-**Model Score: **0.97
+**Model Score:** 0.97
