@@ -5,9 +5,10 @@
 
 Stock price prediction has always been a fascinating field in the finance domain.  
 In future projects, I'll be making this with other algorithms in hope of increasing the robustness.  
-Thank you.
 
 ## Dataset Information
+
+Dataset was download from offical NSE website on 16/07/2021 after the market was closed.  
 
 Variable | Description
 ----------|--------------
