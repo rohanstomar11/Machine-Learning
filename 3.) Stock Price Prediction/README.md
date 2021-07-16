@@ -9,6 +9,9 @@ In future projects, I'll be making this with other algorithms in hope of increas
 ## Dataset Information
 
 Dataset was download from offical NSE website on 16/07/2021 after the market was closed.  
+Stock Ticker: *ITC*  
+Company Name: ITC Limited  
+Exchange: NSE  
 
 Variable | Description
 ----------|--------------
