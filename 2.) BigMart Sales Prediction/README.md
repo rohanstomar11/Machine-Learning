@@ -1,4 +1,4 @@
-# BigMart-Sales-Prediction
+# BigMart Sales Prediction
 
 
 ## Introduction
@@ -34,6 +34,8 @@ Item_Outlet_Sales | Sales of the product in the particulat store. This is the ou
 ## Algorithms
 
 <li>Linear Regression</li>
- 
-**Model Score: **0.72
-**Mean Squared Error: **0.28
+
+## Evaluation
+
+**Model Score:** 0.72
+**Mean Squared Error:** 0.28
