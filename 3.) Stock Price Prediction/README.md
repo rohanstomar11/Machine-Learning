@@ -4,6 +4,7 @@
 ## Introduction
 
 Stock price prediction has always been a fascinating field in the finance domain.  
+This model predicts the next day's Open, Close, High and Low.  
 In future projects, I'll be making this with other algorithms in hope of increasing the robustness.  
 
 ## Dataset Information
