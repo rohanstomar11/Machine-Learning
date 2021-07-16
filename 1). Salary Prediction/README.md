@@ -11,7 +11,7 @@ A basic regression model using Linear Regression.
 Variable | Description
 ----------|--------------
 YearsExperience | Years of Experience
-Salary | Salary
+Salary | Salary of the Employee
 
 
 ## Libraries
