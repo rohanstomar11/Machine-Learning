@@ -3,8 +3,8 @@
 
 ## Introduction
 
-Stock price prediction has always been a fascinating field in the finance domain.
-This project only uses Linear Regression. In future projects, I'll be making this with other algorithms in hope of increasing the robustness.
+Stock price prediction has always been a fascinating field in the finance domain.  
+In future projects, I'll be making this with other algorithms in hope of increasing the robustness.  
 Thank you
 
 ## Dataset Information
