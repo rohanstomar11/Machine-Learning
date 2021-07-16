@@ -41,7 +41,7 @@ Deliverable Qty | Total no. of Delivery
 
 ## Evaluation
  
-**Open Model Score:** 0.92 
+**Open Model Score:** 0.92  
 **Close Model Score:** 0.72  
 **High Model Score:** 0.86  
 **Close Model Score:** 0.77  
