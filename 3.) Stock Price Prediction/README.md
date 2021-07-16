@@ -1,28 +1,32 @@
-# BigMart-Sales-Prediction
+# Stock Price Prediction
 
 
 ## Introduction
 
-The data scientists at BigMart have collected 2013 sales data for 1559 products across 10 stores in different cities. Also, certain attributes of each product and store have been defined. The aim is to build a predictive model and find out the sales of each product at a particular store.
-
-Using this model, BigMart will try to understand the properties of products and stores which play a key role in increasing sales.
+Stock price prediction has always been a fascinating field in the finance domain.
+This project only uses Linear Regression. In future projects, I'll be making this with other algorithms in hope of increasing the robustness.
+Thank you
 
 ## Dataset Information
 
 Variable | Description
 ----------|--------------
-Item_Identifier | Unique product ID
-Item_Weight | Weight of product
-Item_Fat_Content | Whether the product is low fat or not
-Item_Visibility | The % of total display area of all products in a    store allocated to the particular product
-Item_Type | The category to which the product belongs
-Item_MRP | Maximum Retail Price (list price) of the product
-Outlet_Identifier | Unique store ID
-Outlet_Establishment_Year | The year in which store was established
-Outlet_Size | The size of the store in terms of ground area covered
-Outlet_Location_Type | The type of city in which the store is located
-Outlet_Type | Whether the outlet is just a grocery store or some sort of supermarket
-Item_Outlet_Sales | Sales of the product in the particulat store. This is the outcome variable to be predicted.
+Symbol | Ticker of stock
+Series | Type of series
+Date | Date of the data in row
+Prev Close | Closing price of previous day
+Open Price | Opening price on the day
+High Price | Highest price on the day
+Low Price | Lowest price on the day
+Last Price | Last traded price on the day
+Close Price | Closing price on the day
+Average Price | Average price on the day
+Total Traded Quantity | Quantity of shares traded
+Turnover | Liquidity
+No. of Trades | Total no. of trades
+Deliverable Qty | Total no. of Delivery
+% Dly Qt to Traded Qty | Percentage of delivery quantity to trading quantity
+
 
 ## Libraries
 
@@ -34,6 +38,10 @@ Item_Outlet_Sales | Sales of the product in the particulat store. This is the ou
 ## Algorithms
 
 <li>Linear Regression</li>
+
+## Evaluation
  
-**Model Score: **0.72
-**Mean Squared Error: **0.28
+**Open Model Score:** 0.92 
+**Close Model Score:** 0.72  
+**High Model Score:** 0.86  
+**Close Model Score:** 0.77  
