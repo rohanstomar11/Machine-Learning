@@ -3,7 +3,7 @@
 
 ## Introduction
 
-In this project we try to predict if a person is a potential customer for buying Iphone  
+In this project we try to predict if a person is a potential customer for buying Iphone.  
 This model classifies whether the person will buy Iphone or not.
 In future projects, I'll be making this with other algorithms in hope of increasing the robustness.  
 
