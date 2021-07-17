@@ -34,3 +34,4 @@ Iphone Purchase | Whether the person bought or not - [0, 1]
 **Accuracy:** 0.925  
 **Precision:** 0.9  
 **Recall:** 0.818  
+**F1 Score:** 0.857
