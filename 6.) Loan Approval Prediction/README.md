@@ -40,5 +40,10 @@ Loan_Status | Approvement status of the loan
 
 ## Evaluation
  
+**Accuracy:** 0.853  
+**F1 Score:** 0.903  
+
+## Evaluation (Threshold = 0.4)  
+ 
 **Accuracy:** 0.861  
-**F1 Score:** 0.901
+**F1 Score:** 0.901  
