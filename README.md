@@ -6,3 +6,4 @@
 <li>4.) Iphone Purchase Prediction - Logistic Regression</li>
 <li>5.) Heart Attack Prediction - Logistic Regression</li>  
 <li>6.) Loan Approval Prediction - Logistic Regression</li>
+<li>7.) Credit Card Fraud Detection</li>
